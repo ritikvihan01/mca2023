@@ -1,4 +1,4 @@
-html>
+<html>
 <h1>
 Welcome MCA batch 2023-25
 </h1>
